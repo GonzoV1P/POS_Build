@@ -1,4 +1,6 @@
 # Path of Survivors
+[Link do buildu gry](https://drive.google.com/file/d/1SKzGMUxfgAV5kfpk3ZzkcARESqTk8szh/view?usp=sharing)
+
 ## Opis gry
 Path of Survivors to projekt trójwymiarowej gry komputerowej z rzutem izometrycznym i stylizowaną oprawą graficzną, łączącej elementy charakterystyczne dla gatunków action RPG, survivor oraz roguelike.
 
