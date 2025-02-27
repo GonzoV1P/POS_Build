@@ -1,5 +1,6 @@
 # Path of Survivors
-[Link do buildu gry](https://drive.google.com/file/d/1SKzGMUxfgAV5kfpk3ZzkcARESqTk8szh/view?usp=sharing)
+[Link do buildu gry](https://drive.google.com/file/d/1SKzGMUxfgAV5kfpk3ZzkcARESqTk8szh/view?usp=sharing)'
+
 Po pobraniu pliku zip nie trzeba go rozpakowywać, wystarczy do niego wejść i odpaliść plik Path of survivors.exe
 
 ## Opis gry
