@@ -1,24 +1,24 @@
 # Path of Survivors
-[Link do buildu gry](https://drive.google.com/file/d/1SKzGMUxfgAV5kfpk3ZzkcARESqTk8szh/view?usp=sharing)
+[Link to game build](https://drive.google.com/file/d/1SKzGMUxfgAV5kfpk3ZzkcARESqTk8szh/view?usp=sharing)
 
-Po pobraniu pliku zip nie trzeba go rozpakowywać, wystarczy do niego wejść i odpaliść plik Path of survivors.exe
+After downloading the zip file, you don't need to unzip it, just access it and run the Path of survivors.exe file
 
-## Opis gry
-Path of Survivors to projekt trójwymiarowej gry komputerowej z rzutem izometrycznym i stylizowaną oprawą graficzną, łączącej elementy charakterystyczne dla gatunków action RPG, survivor oraz roguelike.
+## Game description
+Path of Survivors is a 3D game project with an isometric view and stylized visuals, combining elements characteristic of the action RPG, survivor and roguelite genres.
 
-Kluczowym miejscem rozpoczęcia każdej sesji rozgrywki jest tzw. „kryjówka” (ang. hideout), w której gracz dokonuje przygotowania do kolejnej wyprawy. Na tym etapie możliwe jest między innymi dostosowanie ekwipunku, konfiguracja dostępnych umiejętności oraz wybór lokacji docelowej. Przemieszczenie się na wybraną mapę następuje poprzez specjalne urządzenie, umożliwiające szybki transfer postaci do wybranego obszaru gry.
+The key starting point for each gameplay session is the so-called “hideout”, where the player makes preparations for the next expedition. At this stage it is possible, among other things, to customize equipment, configure available skills and choose a destination location. Moving to the selected map is done through a special device, allowing quick transfer of the character to the selected game area.
 
-Każdorazowo rozgrywka rozpoczyna się od 1. poziomu postaci. Wraz z eliminacją fal wrogów, gracz gromadzi punkty doświadczenia, skutkujące awansem na kolejne poziomy. Każdy awans uprawnia do ulepszenia jednej z umiejętności obecnych w ekwipunku. Ponadto każda fala przeciwników trwa zaledwie kilka sekund, a po jej zakończeniu gracz dokonuje wyboru cechy (tzw. „ulepszenia”), która w następnej fali dodatkowo wzmocni nadchodzących wrogów (np. zwiększy ich szybkość, siłę ataku lub wytrzymałość). Mechanizm ten wpływa na stopniowe zwiększanie poziomu trudności, co z kolei przekłada się na rosnącą dynamikę rozgrywki.
+Each time the gameplay starts from the 1st level of the character. With the elimination of waves of enemies, the player accumulates experience points, resulting in promotion to subsequent levels. Each promotion entitles the player to upgrade one of the skills present in the inventory. In addition, each wave of enemies lasts only a few seconds, and after its completion, the player selects a trait (the so-called “upgrade”) that will further strengthen the incoming enemies in the next wave (e.g. increase their speed, attack power or endurance). This mechanism affects the gradual increase of the difficulty level, which in turn translates into increasing dynamics of the gameplay.
 
-Po pomyślnym przetrwaniu wszystkich fal na danej mapie pojawia się boss. Jego pokonanie skutkuje odblokowaniem kolejnej, bardziej wymagającej lokacji z silniejszymi przeciwnikami, a także umożliwia zdobycie cenniejszych przedmiotów. Następnie gracz powraca do kryjówki, gdzie może przejrzeć uzyskany ekwipunek, dokonać niezbędnych zmian w wyposażeniu oraz przygotować się do dalszej eksploracji.
+After successfully surviving all waves on a given map, a boss appears. Defeating it results in unlocking the next, more challenging location with stronger opponents, and also allows you to acquire more valuable items. After that, the player returns to the hideout, where he can review the obtained equipment, make the necessary changes in equipment and prepare for further exploration.
 
-## Główne Założenia Gameplayu
-- **Ruch postaci**: Gracz porusza się za pomocą klawiszy WSAD, co zapewnia intuicyjne sterowanie w trójwymiarowym środowisku izometrycznym.
-- **System ekwipunku**: Gracz posiada własny ekwipunek, który można modyfikować i ulepszać, wpływając na statystyki oraz dostępne umiejętności.
-- **Umiejętności**: Postać dysponuje różnorodnymi umiejętnościami, które mogą być rozwijane w miarę zdobywania doświadczenia i awansowania na kolejne poziomy. Umiejętności są celowane za pomocą myszy – gracz wskazuje kierunek lub miejsce, w którym mają zostać użyte, jednak ich aktywacja odbywa się automatycznie po zakończeniu czasu odnowienia.
-- **Fale przeciwników**: Główny gameplay opiera się na eliminowaniu fal potworów, które atakują gracza z rosnącą intensywnością.
-- **Mechanizm ulepszania przeciwników**: Po każdej fali gracz wybiera jedno z dostępnych ulepszeń, które zwiększają trudność kolejnych fal poprzez modyfikację zachowań i statystyk przeciwników.
-- **Bossowie i progresja map**: Po pokonaniu wszystkich fal na danej mapie pojawia się boss, którego pokonanie odblokowuje wyższą, bardziej wymagającą mapę z silniejszymi przeciwnikami.
+Main Gameplay Assumptions.
+- **Character Movement**: The player moves with the WSAD keys for intuitive control in a 3D isometric environment.
+- **Equipment System**: The player has his own equipment, which can be modified and upgraded, affecting stats and available skills.
+- **Abilities**: The character has a variety of skills that can be developed as he gains experience and advances in levels. Skills are targeted with the mouse - the player indicates the direction or location in which they are to be used, but their activation is automatic when the cooldown expires.
+- **Anti-Fireflies**: The main gameplay is based on eliminating waves of monsters that attack the player with increasing intensity.
+- **Enemy upgrade mechanism**: After each wave, the player chooses one of the available upgrades that increase the difficulty of subsequent waves by modifying the behavior and stats of enemies.
+- **Bosses and map progression**: After defeating all waves on a given map, a boss appears, whose defeat unlocks a higher, more challenging map with stronger opponents.
 
 ## Zdjęcia z gry
 ![Start_Menu](https://github.com/user-attachments/assets/531cd889-8848-4018-b3f8-4f2ad7e962c9)
