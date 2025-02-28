@@ -15,39 +15,39 @@ After successfully surviving all waves on a given map, a boss appears. Defeating
 Main Gameplay Assumptions.
 - **Character Movement**: The player moves with the WSAD keys for intuitive control in a 3D isometric environment.
 - **Equipment System**: The player has his own equipment, which can be modified and upgraded, affecting stats and available skills.
-- **Abilities**: The character has a variety of skills that can be developed as he gains experience and advances in levels. Skills are targeted with the mouse - the player indicates the direction or location in which they are to be used, but their activation is automatic when the cooldown expires.
-- **Anti-Fireflies**: The main gameplay is based on eliminating waves of monsters that attack the player with increasing intensity.
+- **Skills**: The character has a variety of skills that can be developed as he gains experience and advances in levels. Skills are targeted with the mouse - the player indicates the direction or location in which they are to be used, but their activation is automatic when the cooldown expires.
+- **Enemy waves**: The main gameplay is based on eliminating waves of monsters that attack the player with increasing intensity.
 - **Enemy upgrade mechanism**: After each wave, the player chooses one of the available upgrades that increase the difficulty of subsequent waves by modifying the behavior and stats of enemies.
 - **Bosses and map progression**: After defeating all waves on a given map, a boss appears, whose defeat unlocks a higher, more challenging map with stronger opponents.
 
-## Zdjęcia z gry
+## Images:
 ![Start_Menu](https://github.com/user-attachments/assets/531cd889-8848-4018-b3f8-4f2ad7e962c9)
 > Menu.
 
 ![Settings](https://github.com/user-attachments/assets/3b8b8aba-fbf9-4bf5-94f6-74f77050937c)
-> Ustawienia.
+> Settings.
 
 ![Characters_panel](https://github.com/user-attachments/assets/b7f38862-9afc-43a5-a6b0-dbd3b9481397)
-> Wybór postaci.
+> Character selection.
 
 ![Stats_Inventory_panels](https://github.com/user-attachments/assets/fd4acb98-4100-4dc7-b0af-0a231f01465d)
-> Statystyki i inwentarz.
+> Statistics and inventory.
 
 ![Armor](https://github.com/user-attachments/assets/7eb04d5f-85d7-4456-b0e3-777775f9405b)
 ![Cartographer](https://github.com/user-attachments/assets/ab04e92b-20dc-4fcb-b783-22b25f42e588)
-> "NPC" u których możemy kupować przedmioty i je sprzedawać.
+> “NPCs” from we can buy and sell items.
 
 ![MapBook_panel](https://github.com/user-attachments/assets/f2a1dc31-34af-4556-ae8a-ab586bc82749)
-> "MapBook" - miejsce w którym aktywujemy mapę na którą chcemy się udać.
+> “MapBook” - the place where we activate the map where we want to go.
 
 ![Dungeon](https://github.com/user-attachments/assets/9c1d2ae6-34b4-48d6-b2fe-cb3fef9106c0)
 ![Jungle](https://github.com/user-attachments/assets/856faba2-2e4b-451b-b73b-e0839cf35122)
 ![Swamp](https://github.com/user-attachments/assets/e80c2e0f-8e94-4e82-9345-8299b034f9c9)
-> Aktualne rodzaje map.
+> Current map types.
 
 ![SkillTree](https://github.com/user-attachments/assets/ac87f4c3-124d-4dd9-bff0-6b7c0677b903)
-> Drzewko ulepszania umiejętności.
+> Skill tree.
 
 ![Enemy_Upgrade](https://github.com/user-attachments/assets/cc4b474f-c926-4754-a413-37cc8be2b57e)
-> Panel ulepszania przeciwników.
+> Enemy upgrade panel.
 
