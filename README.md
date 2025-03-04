@@ -1,5 +1,5 @@
 # Path of Survivors
-[Link to game build](https://drive.google.com/file/d/1SKzGMUxfgAV5kfpk3ZzkcARESqTk8szh/view?usp=sharing)
+[Link to game build](https://drive.google.com/file/d/1J7qoYeqIriQlaXfTqTHH4p083NInEmi6/view?usp=drive_link)
 
 After downloading the zip file, you don't need to unzip it, just access it and run the Path of survivors.exe file
 
