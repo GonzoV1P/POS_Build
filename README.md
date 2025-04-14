@@ -20,6 +20,8 @@ Main Gameplay Assumptions.
 - **Enemy upgrade mechanism**: After each wave, the player chooses one of the available upgrades that increase the difficulty of subsequent waves by modifying the behavior and stats of enemies.
 - **Bosses and map progression**: After defeating all waves on a given map, a boss appears, whose defeat unlocks a higher, more challenging map with stronger opponents.
 
+https://youtu.be/cc3rMp5pJG8
+
 ## Images:
 ![Start_Menu](https://github.com/user-attachments/assets/531cd889-8848-4018-b3f8-4f2ad7e962c9)
 > Menu.
