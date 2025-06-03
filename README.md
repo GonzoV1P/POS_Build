@@ -1,6 +1,8 @@
 # Path of Survivors
 [Link to google drive](https://drive.google.com/file/d/18h_PIwM3Cu3Kq8-g4wJ2X5bZpkY4Ff__/view?usp=drive_link)
+
 [Link to itch.io](https://gonzovip.itch.io/path-of-survivors)
+
 [Gameplay on YT](https://youtu.be/cc3rMp5pJG8)
 
 After downloading the zip file, you don't need to unzip it, just access it and run the Path of survivors.exe file
